@@ -1,0 +1,226 @@
+ It was titled “Public Policy in an Era of Super-Systemic Risk”
+[19] When it came to managing systemic risk, complexity science was rich in answers too
+ The FPC was charged with safeguarding systemic risk in the UK using new macro-prudential tools
+ Specifically, this could lead to a closer alignment of risk for those institutions, new and old, offering these services - narrow banking for payments (money backed by safe assets) and limited purpose banking for lending (risky assets backed by risky liabilities)
+ Second, acting in the opposite direction, there are downside risks to this output projection as we move into the fourth quarter due to the new lockdown measures and any future measures
+ The crisis scarred risk appetite
+ Post-crisis risk aversion, and changes in the nature of work, may have increased insecurities and dimmed workers’ appetite for a vertiginous career climb – or indeed any climb
+ Certainly, downside risks to the global and UK economy have increased through this year
+ Today, the most likely shocks or downside risks to the economy are very different in their source and impact
+ This so-called “psychological scarring” of risk appetite was also a dampener of credit and aggregate demand following the Great Depression
+ Indeed, there are reasons to think there are significant downside risks to the inflation outlook, as the MPC’s fan charts illustrate clearly
+ On the one hand, the hit to capital could be larger if firms’ risk appetite remains subdued or if the debts accumulated during the crisis act as a drag on investment
+uk/news/speeches and @BoE_PressOffice 22 22 (e) Psychological Scarring A final potential difference from the past concerns the degree of psychological scarring of risk appetite among household and companies as a result of crisis
+ Low risk appetite after the global financial crisis was a correction of the excessive risk-taking that took place in the run-up – an overshoot followed by an undershoot
+ Chart 17: Tail Risk in US and Euro-area Inflation Expectations
+ Note: Tail risk is the option-implied inflation tail risk, 5-years ahead measured at the 95th percentile
+ Risk aversion/ uncertainty Relative asset prices Cost of borrowing Total wealth Spending and income Inflation and growth 4
+ Confidence/risk aversion/uncertainty QE improves the economic outlook/reduces risk of bad outcomes (via any mechanism) Yes 6
+ Risk aversion/ uncertainty Relative asset prices Cost of borrowing Total wealth Spending and income Inflation and growth 4
+ Risk aversion/ uncertainty Relative asset prices Cost of borrowing Total wealth Spending and income Inflation and growth 4
+ Deep, reflecting the severity of the hit to balance sheets, risk appetite and economic activity that the crisis has inflicted and continues to inflict
+ These should help in pricing institution-specific risk by financial markets and ratings agencies
+ But by making the financial system more resilient to future shocks, it may also reduce the tail risk of bad macroeconomic outcomes
+uk/speeches 15 15 There are of course a variety of other reasons why banks’ willingness to make markets, and why market liquidity more generally, might have been affected by the crisis – for example, reduced risk appetite and increased counterparty risk
+ Some individual parts of the regulatory rulebook - such as the use of internal ratings-based risk weights - also remain complex
+ If risk can be measured and risk weights can be chosen appropriately, this allows for the greatest level of granularity
+ RWCR: Provides loss absorbing capacity but may perform less well out-of-sample and vulnerable to model risk (IRB approach) or miscalibration of risk weights (standardised approach)
+ Vulnerability to risk shifting arbitrage RWCR: High degree of granularity reduces the scope for risk-shifting LCR & NSFR: standardised assumptions mitigate some scope to shift risk but also allow some scope for distortion if weights are miscalibrated
+ LR: Greatest scope for distortion through risk shifting because of lack of risk sensitivity
+ Crystallisation of systemic liquidity risk leading to a fire sales, liquidity hoarding, and/or a contraction in lending NSFR: Reduces banks’ vulnerability to mediumterm liquidity risks and hence the probability of them being required to deleverage rapidly in periods of stress to shore up their liquidity position
+ RWCRs oblige banks to assign granular risk weights to their assets
+ Greenwood et al (2017) conclude “the social optimum can be implemented with a single requirement that each bank maintain a sufficient ratio of equity to risk-weighted assets, provided the risk weights are chosen appropriately”
+ In a world of such Knightian uncertainty, it may be difficult to estimate risk weights on individual assets with any degree of precision
+ But they then still rely on regulators’ risk models, which may be vulnerable to similar issues, especially if they are formulated in an excessively granular manner (Hale et al (2015))
+ On the other hand, the horizon for assessing banks’ liquidity risk may matter
+ Because these fault-lines were, for some banks, reasonably well-correlated – their risk management was poor across all dimensions – individual regulatory metrics performed fairly well in identifying these banks prior to them failing
+76, indicative of the structural liquidity risk it was undertaking
+ Excessive homogeneity of the financial system can create systemic risks (Haldane (2009a), Wagner (2010))
+ For example, average risk weights on assets held in the trading book have increased by 45% across a sample of major UK banks between 2006 and 2013
+ And Basel III came in part as a response to both risk models, and the Basel framework itself, being arbitraged
+ For example, if the regulatory constraint takes the form of a leverage ratio there are incentives to alter the composition of assets towards those with higher risk weights – though the evidence on such “risk-shifting” is mixed (Sheldon (1996), Furlong (1988))
+ Contrarily, if assets are risk-weighted and determined by banks’ internal models, there are incentives to lower modelled risk weights over time (Mariathasan and Merrouche (2014))
+ In Europe, without a leverage ratio but with risk-based capital standards, there were incentives for banks to expand balance sheets and shade downwards risk weights
+ Conversely, the leverage ratio can serve as an effective constraint on incentives to game or shade risk weights
+ Incentives to game risk weights can be constrained by imposing floors and/or by using standardised approaches for certain categories of assets
+uk/speeches 31 31 subsequent theoretical and empirical work, has shown that the resilience of individual firms is neither necessary nor sufficient for the mitigation of systemic risk (Masera (2014), Crockett (1996))
+ There has been progress, too, in developing models of systemic risk which assign macroeconomic factors, and within-system feedbacks, a prominent role (Greenwood et al (2014), Cont and Schaanning (2017))
+ The direction of travel necessary to enrich these tests, and to make them truly macroprudential, is to incorporate feedback effects that can amplify the actions of individual institutions at the system-wide level (Demekas (2015), Brazier (2015), Tarullo (2016)) – feedbacks, for instance, that result from fire-selling assets, hoarding liquidity and counterparty risk
+ Non-bank sources of systemic risk proved to be potent during the crisis, in particular among shadow banks
+ What was once credit and funding risk on the balance sheets of banking firms is metamorphosing into market and liquidity risk on the balance sheets of funds and investment vehicles of various types (Stein (2013))
+ Systematic, market-wide stress simulations might be needed to capture new market and liquidity risks and their propagation across different financial institutions and markets (Brazier (2017b))
+ Nonetheless, it also gives rise to potentially new sources of systemic risk and contagion, as risks change shape and location
+ A world of greater market and liquidity risk may call for different sets of regulatory instrument than the bank-based solvency and liquidity metrics of Basel III
+ If household debt externalities are within scope, is it better to deal with this risk by restricting mortgage lending directly via loan to income or loan to value limits, or by adding a macroprudential overlay to risk weights on mortgages (Turner (2017))? This lack of a settled approach has some benefits, in making for a diverse range of cross-country experiences
+ Tier 1 Capital Ratio = Tier 1 Capital/Risk Weighted Assets 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Pre-EDTF 2012 2013 2014 Report Aggregate implementation UK implementation 0 2 4 6 8 10 12 14 16 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 Per cent Total GSIBs DSIBs All speeches are available online at www
+ Market-based Capital Ratio = Market Capitalisation/Risk Weighted Assets Chart 12: Estimates of implicit subsidy Sources: Moody’s, Bank of America and Bank calculations
+ higher DSTI ratios for FX-loans, higher risk weights for FX-loans
+ Australia Increase in risk weights for self-verified mortgages and non-prime home loans in 2004
+ 2% capital buffer for systemically-important institutions (July 16) and systemic risk buffer of 3% (June 14)
+ Croatia A wide range of instruments including changes to reserve requirements, higher risk weights and liquidity requirements on foreign currency exposures
+ Systemic risk buffer for large banking groups Spain Rules-based dynamic provisioning introduced in 2000
+uk/speeches 52 52 Chart 20: Average 2007 risk weights, leverage and capital ratios of major EU, US and Canadian banks(a)(b) Sources: Bloomberg, FDIC, annual reports
+ Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools
+ The regulatory framework: balancing risk sensitivity, simplicity and comparability
+ International evidence on government support and risk taking in the banking sector
+ Speech given at London School of Economics Systemic Risk Centre, 30 October
+uk/publications/speeches  5 5 lean against the pro-cyclical tendencies of the financial system as systemic risk increases
+  This rapidly-changing topology of trading raises some big questions for risk management
+ This paper  considers some of the evidence on these abnormalities and their impact on systemic risk
+ If it raises systemic risk, it is    1  For a regulatory perspective see CFTC-SEC (2010), for a market perspective see Automated Trader (2010) and for an academic  perspective see Easley et al (2011b)
+  This basic framework can be used to assess the impact of the changing trading topology on systemic risk,  moving from analysing market microstructure to market macrostructure
+ If this  long-memory property of prices is emerging at ever-higher frequencies, it might provide an important clue to  how HFT affects systemic risk
+ This fattens tail risk
+ More formally, the expected return can be written as the  sum of the risk free rate and a company-specific risk premium for company j:18  (3) ܧ௧ ൫ܴ௝௧൯ൌ ܴ௙௧ ൅ ߨ௝௧ The actual return on an investment is the sum of the capital gain and the dividend yield:  (4) ܴ௝௧ ൌ ܲ௝௧ ା ଵ െ ܲ௝௧ ܲ௝௧ ൅ ܦ௝௧ ା ଵ ܲ௝௧ Assuming an efficient market, actual returns differ only from expected returns due to a forecast error which is  uncorrelated with expected returns
+  (5)  ܲ௝௧ ൌ ܧ௧ ൫ܲ௝௧ାଵ ൅ ܦ௝௧ାଵ൯ ܴ௙௧ ൅ ߨ௝௧ ൅ 1 So the price of the security is simply the expected price and dividend in the next period, discounted by the  sum of the risk-free rate and the company-specific risk premium
+ Under the CAPM, for example, the company specific risk premium is equal to the company specific beta multiplied by the  market risk premium ߨ௝௧ ൌ ߚ௝௧ ൫ܴ௠௧ െ ܴ௙௧൯
+uk/publications/speeches 7 7 (7) ܧ௧ሺߨ௝௧ା௞ሻൌ ߨ௝௧ ,׊݇ (8) ܧ௧ሺܴ௙௧ା௞ሻൌ ݎ௧ଵ,௧ା௞ ,׊݇ Equation (7) says that the expected company-specific risk premium is constant and pre-determined based  on period t information
+ Taking these in turn:  (a) Company-Specific Risk Premium  Following Miles (1993), the company risk premium is modelled based on firm-specific characteristics, in  particular the company beta and the level of gearing:  (10) ߨ௝௧ ൌ ߙଵߚ௝௧ ൅ ߙଶܼ௝௧ where ܼ ൌ ஽ ா 
+  Having estimated (10) using pooled US and UK regressions over 20 years, a firm-specific risk premium can  be calculated
+ As Chart 3 shows, both gearing and beta  contribute to the company risk premium estimates
+uk/publications/speeches 10 10 Chart 3: Estimates of company risk premium  Sources: Thomson Reuters Datastream and Bank calculations
+ To generate  these, consider a simplified version of (9) which abstracts from discount rates, company-specific risk premia  and dividends:  (11) ܲ௝௧ ൌ ܧ௧ ൫ܲ௝௧ାே൯ݔே Following Wickens (1982), the rational expectation t+N periods ahead are formed on the basis of information  available at time t
+ In the  20 10 0 10 20 30 40 50 60 1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 Gearing Risk Beta Risk Company Risk Premium Per cent - + All speeches are available online at www
+ These included dropping gearing from the estimation of the risk premium and varying the effects of taxes
+ The rational discount uses an average risk free rate from our cross sectional data sample (1
+ The  quest for risk sensitivity in Pillar I rules caused regulatory complexity and opacity to blossom
+ Risk management will be  more extensive and in future it will be more robust
+ Its  number of risk buckets has increased from around seven under Basel I to, on a conservative estimate, over  200,000 under Basel II
+  At one level, this is technical progress; it is the appliance of science to risk management
+ Under the advanced model-based approach to calculating  retail PDs, each loan is placed in a risk bucket
+ So there is a degree of intrinsic uncertainty both about where  in the risk bucket the true PD lies and indeed about whether it lies in the assigned risk bucket at all
+uk/publications/speeches  5  5 counterfactual assumptions: (a) that true PDs were uniformly distributed within the risk bucket; (b) that true  PDs were higher than recorded PDs by one risk bucket
+ Chart 1 looks at the distribution of the reported capital ratio,  indexed to 100, assuming model uncertainty only exists within each risk bucket and is symmetric
+ Complexity in risk models may have perpetuated Hayek’s pretence in the minds of risk  managers and regulators
+uk/publications/speeches  7  7 Resurrecting the Third Pillar  What could be done to strengthen the framework? As a thought experiment, consider dropping risk models  and instead relying on the market
+2   Various international macro-prudential policy committees are, or are about to be, put in place – in  the US the Financial Stability Oversight Committee, in the euro-area the European Systemic Risk  Board and in the UK the Financial Policy Committee
+ As those risk illusions were  shattered, all of the pre-crisis gains in banks’ reported returns were lost
+ 4 At the beginning of each period, each bank originates a risky asset, the return on which    3  For other applications of the “global games” framework to banking, see inter alia, Rochet and Vives (2004) and  Goldstein and Pauzner (2005)
+ If an  asset turns out to be bad, banks can hide negative earnings in the short run by engaging in risky  policies to boost returns – in effect, engaging in risk illusion
+ But risky policies always involve longer  term expected losses of ܿ൐ܽ
+  If instead of setting risky policies banks choose immediately to liquidate assets, they set a tight  policy, realising a loss of -1 for sure
+ If returns are low, under a risky policy banks can increase short term  earnings with some positive probability, but must incur a long term loss; while under a tight policy,  banks can accept low short term earnings for sure now, avoiding losses in the future
+ If a bank chooses a risky (superscript ݎ (policy, it obtains  ݑ௥ሺߠ݈ ,ሻ ൌ ሺ1െߛሻሾെሺ1െܽሻ െ ܿሿ ൅ ݌ߛ௥ሺߠ݈ ,ሻ, 6  where a proportion ݈ of all banks also set a risky policy
+ The  marginal effect on reputation of banks adopting risky rather than tight policies is given by  ݌ሺߠ݈ ,ሻ ؠ ݌ ௥ሺߠ݈ ,ሻ െ ݌௧ ሺߠ݈ ,ሻ, We posit ݌ఏ ൐ 0: improvements in the macro state increase the incentive banks face to liberalise  their risk management policies
+  We also posit ݌ ൐ ௟0: as a larger proportion of banks set risky credit policies, the larger the incentive  to pursue similarly risky policies
+ But one bank’s announcement of positive earnings encourages others  to announce positive earnings by setting risky policies too
+ In Rajan’s model this strategic  complementarity between banks generates multiple equilibria: in sufficiently good states, banks  coordinate on risky policies (“credit booms”), while in bad states they coordinate on tight policies  (“credit crunches”)
+ 6 ݌௥ሺߠ݈ ,ሻ is the probability assigned by the market of the bank being high ability, conditional on the bank setting a risky  policy (unobserved by the market), the asset being bad, the macro state being ߠ and proportion ݈ other banks also setting  risky policies
+ 7 ݌௧ሺߠ݈ ,ሻ is defined analogously to ݌௥ሺߠ݈ ,ሻ, but is conditioned on tight rather than risky policies
+ This captures the marginal return to adopting a risky policy
+ It allows us to define the regions of  fundamentals over which risky policies and tight policies dominate respectively
+ A risky policy  dominates a tight policy, even when no other banks set risky policies (݈ൌ0), when ߠ൐ߠҧ where  ݌ሺߠҧ, 0ሻ ൌ ሺܿെܽሻ ൬ ߛ1െ 
+൰ ߛ A tight policy dominates a risky policy, even when other banks set risky policies (݈ൌ1), when ߠ൏ߠ where  ݌ሺߠ ,1ሻ ൌ ሺܿ െ ܽሻ ൬1െߛ 
+  Using (1) it follows that the threshold level of fundamentals above which banks set risky policies is  (a) increasing in the long-term cost of extending bad credit ܿ, and (b) decreasing in relative  reputational concerns ߛ ,or ݀כߠ כߠ݀ ,0/݀ܿ ൐  
+ First, increasing the cost to banks of pursuing risky strategies  causes banks to coordinate on risky policies only at very high levels of fundamentals
+ Or, put  differently, safety prevails over a larger range of fundamentals when risky policies are costly
+  Prudential policies (discussed further in Section 5) are one means of raising the cost to banks of  pursuing such risky strategies
+ But it also leads bank ݅ to expect fewer other banks to adopt risky policies
+ As greater weight is placed on shortterm reputation, incentives are sharpened to signal high ability by pursuing risky policies, even  when their signalling effect is relatively small (ߠ is low)
+ But with reputational  externalities, productivity shocks become amplified by the credit cycle: a high realisation of ߝ in  period ݐെ1 could push the macro state above the risky policy threshold, at which point the  dynamics of ݑ௧ begin also to shape the real economy
+  Intuitively, this makes them more likely to choose the risky policy
+  10  ݀ככߠ݀/ߛ ൏ 0, such that higher costs of risk taking and lower reputational concerns decrease the  probability of risky policies being adopted
+ But it also drives up volatility due to risk illusion
+ It becomes more likely,  then, that bankers will coordinate on the risk taking equilibrium
+ As the macro state hits the threshold, banks adopt  risky policies to signal high ability
+ The threshold for risky policies  falls
+ First, strategic complementarities  incentivise banks to adopt risky strategies in a coordinated fashion during the boom
+ Second, at a micro-economic level, the  coordination of risky strategies during the boom should compress the dispersion of bank earnings,  as low ability banks masquerade as high ability banks during good times
+ In this sense, there is a direct  analogy with our model, in which strategic complementarities in risk taking can generate persistent credit cycles in  response to high-frequency fluctuations in fundamentals
+ A second implication is that the dispersion in returns may be  smaller for financial than for non-financial companies to the extent that former are more susceptible  to risk illusion
+  The crises generated by excessive risk taking in our model would generate heightened volatility in a time series sense
+ Ours relies on excessive risk taking in a world of imperfect  information
+  Table 4: Payoffs in a Two-Bank Game Bank 2  Risky Tight  Bank 1  Risky ݑ௥ሺߠ ,1ሻ, ݑ௥ሺߠ ,1ሻ ݑ ௥൬ߠ ,1 2 ൰,ݑ௧ ൬ߠ ,1 2 ൰ Tight ݑ௧ ൬ߠ ,1 2 ൰,ݑ ௥൬ߠ ,1 2 ൰ ݑ௧ሺߠ ,0ሻ, ݑ௧ሺߠ ,0ሻ Now suppose the regulator forces Bank 2 to set tight policies whenever it realises low returns
+  Chart 21 illustrates the impact of increasing the long term cost of short term risky strategies, ܿ, across the entire system in our simple model
+ But if the regulator raises the cost of risky policies, the signalling threshold rises to the  green dashed line
+  Chart 21: Model simulation high long term cost of short term risky strategies    Source: Bank calculations  Fifth, because credit cycles emerge from a failure to co-ordinate lending decisions, expectations are  crucial for the effectiveness of macro-prudential policies
+  Risk illusion, rather than a productivity miracle, appears to have driven high returns to  finance
+ A key issue is the extent to which  bearing risk should be measured as a productive service provided by the banking system
+  (i) Adjusting FISIM for Risk  Under current FISIM guidelines, which use risk-free policy rates to measure the reference  rate, banks’ compensation for bearing risk constitutes part of their measured nominal output
+ For example, assume there is an economy-wide  increase in the expected level of defaults on loans or in liquidity risk, as occurred in October  2008
+ Banks take  on maturity mismatch or liquidity risk on behalf of households and companies
+ But it  is not clear that bearing risk is, in itself, a productive activity
+ Any household or corporate  investing in a risky debt security also bears credit and liquidity risk
+ The act of investing  capital in a risky asset is a fundamental feature of capital markets and is not specific to the  activities of banks
+  The productive activity provided by an effectively functioning banking system might be  better thought of as measuring and pricing credit and liquidity risk
+ And they manage liquidity risk through their treasury operations, thereby acting as  delegated treasurer
+  Stripping out the compensation for bearing risk to better reflect the service component of the  financial sector could be achieved in different ways
+ Explaining Aggregate Returns in Banking – Excess Returns and Risk Illusion How do we explain these high, but temporary, excess returns to finance which appear to have  driven the growing contribution of the financial sector to aggregate economic activity? In  this section we discuss potential balance sheet strategies which may have contributed to these  rents
+ In that sense,  the banking “productivity miracle” may have been, at least in part, a mirage – a simple, if  dramatic, case of risk illusion by banks, investors and regulators
+  Between 1997 and 2008, as UK banks increased leverage, they managed to maintain broadly  constant capital ratios by, on average, seeking out assets with lower risk weights (Chart 27)
+ As such hybrid instruments have shown themselves largely unable to absorb losses  during the crisis, this boost to ROE is also likely to have been an act of risk illusion
+ Trading book assets tended to attract risk weights appropriate for dealing  with market but not credit risk
+  (c) Writing deep out-of-the-money options  A third strategy, which boosted returns by silently assuming risk, arises from offering tail risk  insurance
+ Banks can in a variety of ways assume tail risk on particular instruments – for  example, by investing in high-default loan portfolios, the senior tranches of structured  products or writing insurance through credit default swap (CDS) contracts
+  Until, that is, tail risk manifests itself, at which point losses can be very large
+ The productivity miracle was in fact a  risk illusion
+ By acting in that  way, the risk-taking incentives of each business unit can be aligned with the business as a  whole, thereby complementing firms’ internal risk management
+ Risk illusion is no accident; it is there by  design
+ Systemic risk is a noxious by-product
+  Public policy has long-recognised the costs of systemic risk
+ This is recognition of the  social costs of systemic risk
+ What does it suggest?  Counting the Systemic Cost  One important dimension of the debate concerns the social costs of systemic risk
+ It helps calibrate the  intervention necessary to tackle systemic risk, whether through regulation or restrictions
+ If a systemic tax is to be  levied, a more precise measure may be needed of banks’ distinctive contribution to systemic risk
+ And add-ons to these capital and liquidity buffers for institutions posing the  greatest systemic risk are being discussed to address the second
+9  In essence, this is a taxation  solution to the systemic risk pollution problem
+  Basel II was underpinned by a complex menu of capital risk weights
+  (c) Incentives  Tail risk within some systems is determined by God – in economist-speak, it is exogenous
+  Natural disasters, like earthquakes and floods, are examples of such tail risk
+  Tail risk within financial systems is not determined by God but by man; it is not exogenous but  endogenous
+ So there are natural incentives within the financial system to generate tail risk  and to avoid regulatory control
+25 The endogeneity of tail risk in banking poses a dilemma for regulation
+ Putting uncertainties to  one side, assume the policymaker could calibrate perfectly tail risk in the system today and the  capital necessary to insure against it
+ In an echo of the 1979 Madness song, banks would then  have incentives to position themselves “One Step Beyond” the regulatory buffer to harvest the  higher returns that come from assuming tail risk
+ Tail risk would expand to exhaust available  resources
+  This dynamic means it is hazardous to believe there is a magic number for regulatory ratios  sufficient to insure against tail risk in all states of the world
+ Because tail risk is created not  endowed, calibrating a capital ratio for all seasons is likely to be, quite literally, pointless –  whatever today’s optimal regulatory point, risk incentives mean that tomorrow’s is sure to be  different
+  In response, some economists have proposed corner solutions to the systemic risk problem – in  effect, radical structural redesign
+ Tail risk is bigger in  banking because it is created, not endowed
+  • “Timely Risk Management”  Perhaps the most recent of the arguments used to support fair values arises from its  role as a risk management device
+ Among market participants, the use of fair values and fleet-offoot risk management techniques is widely felt to have contributed to the relative  success of some firms during the course of the crisis
+ This approach  provides an essential early warning system that is critical for risk managers and regulators”, Lloyd  Blankfein, Financial Times, October 13 2009
+ It is  precisely such risk management incentives that appear to explain the relative success  of some firms, including Goldman Sachs, during this crisis
+  3 What explains this remarkable recovery in risky asset prices? Three factors seem to  have been important, all of which can be traced to policy actions by the authorities:  • First, the rate at which the future cashflows on risky assets are discounted has  fallen due to lower short and long-term global real interest rates
+  • Second, as fears of a repeat of the Great Depression have abated, the premium  that investors require to compensate for this risk – the risk premium – has  fallen, boosting expected future cashflows on risky assets
+  This is the high road to reform – for example, higher buffers of capital and liquidity  and higher standards of risk management
+  This is the high road to reform – for example, higher buffers of capital and liquidity  and higher standards of risk management
+ For a risk shared was a risk halved – perhaps more than halved, given the  magic of diversification
+ So too did their risk management strategies
+ How so?  Banks entered the crisis with a large portfolio of risky assets
+ Bank A faces counterparty risk on Bank B
+  Counterparty risk is not just unknown; it is almost unknowable
+ It is little wonder participants took fright  as both institutions came under stress, fearful not so much of direct counterparty risk,  but of indirect counterparty risks emanating from elsewhere in the network
+ Risk models blossomed, with Value-at-Risk (VaR)  and stress-testing providing seductively precise outputs
+  This evidence is discouraging from a systemic risk perspective
+34 With richer  data on network topology, calibrated simulation models could help gauge financial  institutions’ marginal contribution to systemic risk
+  Risk managers are of course known for their pessimistic streak
+ But risk management models have during this crisis proved  themselves wrong in a more fundamental sense
+ Failed the authorities who had relied – perhaps over-relied – on  the signal it provided about financial firms’ risk management capabilities
+  The Golden Decade  To understand the recent failures in risk management, some history is instructive
+  Prior to the current financial crisis, the previous two low tide marks for the financial  system and risk management were the stock market crash of October 1987 and the  failure of the hedge fund LTCM in September 1998
+ Both prompted a sea-change in  risk management practices and technologies
+  The October 1987 crash in many respects marked the birth of Value at Risk (VaR) as  a key risk management tool in financial firms
+ By 1996, they had published their  methodology and the detail of the parameterisation of their risk models
+ In 1998  RiskMetrics Group, an independent for-profit business, spun off the JP Morgan  methodology and began offering consultancy services to the risk management  community
+ We were experiencing a second wave of technological  revolution in risk management
+ At the same time as returns were being boosted by bigger balance sheets  and financed by higher leverage, risk was being held in check by a shift in the  technological frontier of risk management
+ Risk modelling became high fashion for the pointy-heads, haute-couture for  the anoraks
+ In the face of these falls, risk management systems across  virtually all institutions have been found badly wanting
+ Today, managers of risk – the  authorities just as much as banks – find themselves struggling to preserve their  dignity, with risk management systems a combination of sack-cloth and fig-leaf
+  6 Diagnosing the Market Failures  So what were the failures, specifically of stress-testing and other risk management  tools, that contributed to this credit boom and subsequent bust? It is useful to try and  identify the micro-economic friction – the market failure – that was the root cause of  these risk management problems
+ Perhaps ten years  is the threshold heuristic for risk managers
+ The  degree of under-pricing of risk is large and is larger for options designed to protect  against tail risks (lower strike prices)
+6   These network uncertainties make it tremendously difficult for risk managers to  identify and price, and hence manage, balance sheet risk
+ First, internally, through the relationship  between risk managers and the risk-takers within financial firms; and second,  externally, in the relationship between financial firms and the authorities
+ If the ex-post failure of an institution risks destabilising the    9  The KPMG survey of risk managers in October 2008 pointed to a similar conclusion, as does the  FSA consultation paper on stress-testing published in December 2008
+ These are topsy-turvy incentives from a public policy perspective, with  risk management discipline weakest among those whom society would wish it to be  strongest
+ The timeconsistency problem, and its associated negative consequences for risk management,  was real ahead of crisis
+  When risks materialised outside of calibrated distributions, risk models provided little  guidance in identifying, pricing and hence managing them
+ The breakdown of risk models is itself likely to have  contributed importantly to crisis dynamics
+  But when risk shifted, many insurers have suffered large-scale losses as premia have  adjusted and investors have scrambled to hedge
+ Risk models –  or the failure thereof – have played their part in generating these foggy outcomes
+ See also Counterparty Risk Management Group (2008) for other useful suggestions
+ As after the previous two episodes of systemic failure, in October  1987 and August 1998, a third wave of technological transformation in the standards  of risk management is now needed as a matter of priority
+ These measures involve a  greater degree of engagement both between risk managers and senior management  within firms, and between financial firms and the authorities
+ These measures would not prevent a next time – nor should they – but they might help make risk management roughly right
